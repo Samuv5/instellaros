@@ -9,7 +9,6 @@ Designed to be **lightweight, fast, and highly customizable**, it is perfect for
 
 - 🖥 **XFCE desktop** optimized with a design inspired by **Garuda Moka**.
 - ⚡ **Extreme performance**: fast boot, low resource usage.
-- 🎨 **Advanced aesthetics**: exclusive icons and wallpapers included.
 - 📦 **Clean system**: no unnecessary bloatware.
 - 🔒 Based on Arch Linux with rolling updates via `pacman`.
 - 🛠 **Calamares installer** for an easy graphical installation.
