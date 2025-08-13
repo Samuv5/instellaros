@@ -14,7 +14,6 @@ Designed to be **lightweight, fast, and highly customizable**, it is perfect for
 - 🔒 Based on Arch Linux with rolling updates via `pacman`.
 - 🛠 **Calamares installer** for an easy graphical installation.
 - 🌐 **Firefox** preinstalled for a complete web experience.
-- 📁 Special folder `/home/instellar/InstellarOS Files/` containing resources and customization.
 
 ---
 
