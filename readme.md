@@ -53,8 +53,7 @@ Designed to be **lightweight, fast, and highly customizable**, it is perfect for
 
 ## 📄 License
 
-Instellar OS is based on Arch Linux and uses free software under their respective licenses.  
-Visual elements (icons, wallpapers, themes) are for exclusive use with Instellar OS.
+Instellar OS is based on Arch Linux and uses free software & wallpapers under their respective licenses.  
 
 ---
 
