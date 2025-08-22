@@ -1,18 +1,18 @@
-# 🌌 Instellar OS
+# 🌌 Instellar OS 🌌
 
 **Instellar OS** is a custom Linux distribution based on **Arch Linux** with the **XFCE** desktop environment, optimized for **extreme performance** and **modern aesthetics**.  
 Designed to be **lightweight, fast, and highly customizable**, it is perfect for users who want power without sacrificing style.
 
 ---
 
-## 🚀 Key Features
+## 👾 Key Features
 
-- 🖥 **XFCE desktop** optimized with a design inspired by **Garuda Moka**.
+- 🚀 **XFCE desktop** optimized with a design inspired by **Garuda Moka**.
 - ⚡ **Extreme performance**: fast boot, low resource usage.
 - 📦 **Clean system**: no unnecessary bloatware.
 - 🔒 Based on Arch Linux with rolling updates via `pacman`.
-- 🛠 **Calamares installer** for an easy graphical installation.
 - 🌐 **Firefox** preinstalled for a complete web experience.
+- 🛒 **Discovery Store** with flatpak in the system for installing apps easily.
 
 ---
 
@@ -33,7 +33,7 @@ Designed to be **lightweight, fast, and highly customizable**, it is perfect for
 ## 🔧 Installation
 
 1. Download the ISO from the official source.
-2. Create a bootable USB using [Balena Etcher](https://www.balena.io/etcher/) or `dd`.
+2. Create a bootable USB using [Balena Etcher](https://www.balena.io/etcher/), `dd` or [Rufus](https://rufus.ie/en/).
 3. Boot from the USB drive.
 4. Open the **Calamares Installer** and follow the instructions.
 5. Enjoy Instellar OS!
