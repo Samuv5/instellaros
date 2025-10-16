@@ -17,7 +17,6 @@ Designed to be **lightweight, fast, and highly customizable**, it is perfect for
 ---
 
 ## 📸 Screenshots
-*(Here you can add images showcasing the design and customization)*
 
 ---
 
